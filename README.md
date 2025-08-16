@@ -1,18 +1,13 @@
-Thanks, Shannu! You've now uploaded files related to your **Heart Disease Risk Prediction** project:
 
 * 🧪 `heart.csv`: Dataset containing features and labels related to heart disease.
 * 📓 `Heart_Disease_Risk_Prediction_Project(1).ipynb`: Jupyter Notebook implementing the machine learning pipeline.
 
-Here’s a **detailed `README.md` file** tailored for your **Heart Disease Risk Prediction Machine Learning Project** — ready for direct upload to GitHub:
 
----
-
-````markdown
 # 💓 Heart Disease Risk Prediction using Machine Learning
 
 This project is designed to predict the likelihood of heart disease in patients using supervised machine learning models. The project leverages clinical data such as cholesterol, blood pressure, age, and other factors to classify patients as high or low risk for heart disease.
 
----
+
 
 ## 📁 Project Files
 
@@ -21,7 +16,6 @@ This project is designed to predict the likelihood of heart disease in patients 
 | `heart.csv`                                     | Cleaned dataset with patient health records and risk labels |
 | `Heart_Disease_Risk_Prediction_Project(1).ipynb`| Jupyter Notebook for data preprocessing, model training, evaluation, and prediction |
 
----
 
 ## 🎯 Objective
 
@@ -37,7 +31,6 @@ The main goals of this project are:
   - ROC-AUC
 - Use the best-performing model for predicting heart disease risk
 
----
 
 ## 🧠 Algorithms Used
 
@@ -48,7 +41,6 @@ The main goals of this project are:
 - Support Vector Machine (SVM)
 - Naive Bayes (optional)
 
----
 
 ## 🗂️ Dataset Description
 
@@ -71,7 +63,6 @@ The `heart.csv` file contains the following features:
 | `thal`          | Thalassemia (3 = normal; 6 = fixed defect; 7 = reversible defect) |
 | `target`        | Diagnosis of heart disease (0 = No, 1 = Yes)     |
 
----
 
 ## 📊 Steps Performed
 
